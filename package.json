@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Harry",
+  "author": "Adi",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.7"
